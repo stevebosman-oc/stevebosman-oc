@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Steve Bosman, this account is for opensource contributions during worktime
+- 👋 Hi, I’m Steve Bosman, this is my work account
 - ➡️ I have another account [@stevebosman](https://github.com/stevebosman) full of randomness created during my free time
 - 👀 I’m interested in Java, Javascript
 - 🌱 I’m currently learning Scala
